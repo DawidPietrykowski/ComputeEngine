@@ -133,5 +133,4 @@ file(COPY src/SSBO.h DESTINATION ${CMAKE_BINARY_DIR}/include)
 file(COPY src/Shader.h DESTINATION ${CMAKE_BINARY_DIR}/include)
 file(COPY src/Program.h DESTINATION ${CMAKE_BINARY_DIR}/include)
 file(COPY src/GLUtils.h DESTINATION ${CMAKE_BINARY_DIR}/include)
-#file(COPY src/Scene.h DESTINATION ${CMAKE_BINARY_DIR}/include)
 

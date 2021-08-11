@@ -6,8 +6,6 @@ ComputeEngine.cpp
 ComputeEngine.h
 Program.cpp
 Program.h
-#Scene.cpp
-#Scene.h
 Shader.cpp
 Shader.h
 SSBO.cpp

@@ -6,7 +6,6 @@
 #include "SSBO.h"
 #include "Texture.h"
 #include "Program.h"
-#include "Scene.h"
 #include "Shader.h"
 #include "Timer.h"
 
